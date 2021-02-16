@@ -1,13 +1,13 @@
 def test_method
-    'bears'
+  'bears'
 end
   
 class ExampleClass
-    def self.class_test
-      'in my yard'
-    end
+  def self.class_test
+    'in my yard'
+  end
   
-    def instance_test
-      'seriously'
-    end
+  def instance_test
+    'seriously'
+  end
 end
